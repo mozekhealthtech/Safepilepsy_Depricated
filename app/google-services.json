@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "297795855872",
+    "firebase_url": "https://epilepsy-1579704046368.firebaseio.com",
+    "project_id": "epilepsy-1579704046368",
+    "storage_bucket": "epilepsy-1579704046368.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297795855872:android:3f6dabc986aca00ddd5ae5",
+        "android_client_info": {
+          "package_name": "com.abhishek.admin.safepilepsy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297795855872-3oeosn1rbb2hr7u0gjsn6ikt2e035na9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhishek.admin.safepilepsy",
+            "certificate_hash": "0f7e48356b423bb8933129406313d392f8ce67f0"
+          }
+        },
+        {
+          "client_id": "297795855872-693b2692l5piroklqiq9lka3lu7n581f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfYqldNXuSJhQtSUOFXewOeUkJJY1HDSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297795855872-693b2692l5piroklqiq9lka3lu7n581f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
